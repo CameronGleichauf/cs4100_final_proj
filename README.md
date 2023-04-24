@@ -2,7 +2,8 @@
 NCAA AI Project Notes
 Outline:
 Scrape NBA win shares and corresponding college statistics from basketball reference starting at 2009 draft
-First basic
+
+First basic stats
 Add advanced 
 Add positions/one hot encoding 
 Add metadata
